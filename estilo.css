@@ -1,0 +1,51 @@
+body,html{
+    height: 100%;
+}
+.gradient{
+    background-image: -webkit-linear-gradient(right, rgb(109, 6, 109),rgb(14, 14, 179));
+}
+
+.egg{
+    
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    text-shadow: 
+    2px 2px 2px #000,
+    -2px -2px 2px #000,
+    -2px -2px 2px #000,
+    2px 2px 2px #000;
+}
+
+
+
+.boio{
+    display: flex;
+    justify-content: center;
+}
+
+
+.boio2{
+    display: flex;
+    justify-content: center;
+   
+}
+
+
+
+
+.write{
+    color: white;
+    font-size: x-large;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-shadow: 
+    2px 2px 2px #000,
+    -2px -2px 2px #000,
+    -2px -2px 2px #000,
+    2px 2px 2px #000;
+
+
+}
